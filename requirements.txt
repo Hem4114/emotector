@@ -1,0 +1,7 @@
+streamlit==1.28.0
+opencv-python-headless==4.5.5.64
+onnxruntime
+numpy
+pillow
+matplotlib
+fpdf
